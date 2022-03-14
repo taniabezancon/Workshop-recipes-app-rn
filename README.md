@@ -9,7 +9,7 @@ Created by [@Vincent-DARIBO](https://github.com/Vincent-DARIBO) and [@taniabezan
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Navigation tutorial](#Navigation tutorial)
+* [Navigation tutorial](#Navigation-tutorial)
 
 ## General info
 
