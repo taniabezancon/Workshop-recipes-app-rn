@@ -1,6 +1,6 @@
 # Workshop-recipes-app-rn
 
-A simple app to master the basics of React Native (vaigation, UI/UX...)
+A simple app to master the basics of React Native (navigation, UI/UX...)
 Created by [@Vincent-DARIBO](https://github.com/Vincent-DARIBO) and [@taniabezancon](https://github.com/taniabezancon).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
