@@ -1,7 +1,6 @@
 # Workshop-recipes-app-rn
 
-# React-Native-training-app
-A simple app to master the basics of React Native (state management, internationalization, theming...)
+A simple app to master the basics of React Native (vaigation, UI/UX...)
 Created by [@Vincent-DARIBO](https://github.com/Vincent-DARIBO) and [@taniabezancon](https://github.com/taniabezancon).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -10,6 +9,7 @@ Created by [@Vincent-DARIBO](https://github.com/Vincent-DARIBO) and [@taniabezan
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Navigation tutorial](#Navigation tutorial)
 
 ## General info
 
@@ -40,3 +40,5 @@ $ cd ../React-Native-training-app
 $ yarn install
 $ yarn start
 ```
+## Navigation tutorial
+
